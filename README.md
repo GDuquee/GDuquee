@@ -24,7 +24,9 @@
  
 </div>
   
-  <div>
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?usaername=GDuquee&repo=Site-Veterinaria&theme=great-gatsby)](https://github.com/GDuquee/Site-Veterinaria)
+  ##
   
-  </div>
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GDuquee&repo=Site-Veterinaria&theme=great-gatsby)](https://github.com/GDuquee/Site-Veterinaria)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GDuquee&repo=Projeto-Cinema&theme=great-gatsby)](https://github.com/GDuquee/Projeto-Cinema)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GDuquee&repo=Projeto-Vacina&theme=great-gatsby)](https://github.com/GDuquee/Projeto-Vacina) 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GDuquee&repo=Projeto-Salumar&theme=great-gatsby)](https://github.com/GDuquee/Projeto-Salumar) 
