@@ -2,7 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/GDuquee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDuquee&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GDuquee&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDuquee&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -22,3 +23,8 @@
   ![Snake animation](https://github.com/GDuquee/GDuquee/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  <div>
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?usaername=GDuquee&repo=Site-Veterinaria&theme=great-gatsby)](https://github.com/GDuquee/Site-Veterinaria)
+  
+  </div>
