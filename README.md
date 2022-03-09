@@ -16,13 +16,19 @@
   <img align="center" alt="icon-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icon-Csharp" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div><br>
+  
+  ##
 
 <div align="center">  
+ 
+  ![Snake animation](https://github.com/GDuquee/GDuquee/blob/output/github-contribution-grid-snake.svg)
+  
+  ##
+    
+  <p>Meios para Contato</p>
   <a href="tel:+55 (61)99866-2512" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href ="mailto:duquegabriel777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-duque-da-silva-9a425722b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/GDuquee/GDuquee/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
