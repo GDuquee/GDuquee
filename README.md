@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/GDuquee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GDuquee&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDuquee&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GDuquee&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDuquee&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -26,7 +26,7 @@
   
   ##
   
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GDuquee&repo=Site-Veterinaria&theme=jolly)](https://github.com/GDuquee/Site-Veterinaria)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GDuquee&repo=Projeto-Cinema&theme=jolly)](https://github.com/GDuquee/Projeto-Cinema)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GDuquee&repo=Projeto-Vacina&theme=jolly)](https://github.com/GDuquee/Projeto-Vacina) 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GDuquee&repo=Projeto-Salumar&theme=jolly)](https://github.com/GDuquee/Projeto-Salumar) 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GDuquee&repo=Site-Veterinaria&theme=midnight-purple)](https://github.com/GDuquee/Site-Veterinaria)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GDuquee&repo=Projeto-Cinema&theme=midnight-purple)](https://github.com/GDuquee/Projeto-Cinema)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GDuquee&repo=Projeto-Vacina&theme=midnight-purple)](https://github.com/GDuquee/Projeto-Vacina) 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GDuquee&repo=Projeto-Salumar&theme=midnight-purple)](https://github.com/GDuquee/Projeto-Salumar) 
